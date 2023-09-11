@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	font-family: "Albert Sans", sans-serif;
+}
+
+button {
+	font-family: "Albert Sans", sans-serif;
+}
+
+@layer components {
+}
