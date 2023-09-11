@@ -1,0 +1,62 @@
+[
+	{
+		"logo": "eroton-logo.png",
+		"description": "Eroton is an independent oil and gas producing company with its headquarters in Lagos, Nigeria. Operating OML 18 situated in the Niger Delta",
+		"url": "https://www.erotonep.com"
+	},
+	{
+	
+		"logo": "nnpc-logo.webp",
+		"description": "NNPC is an integrated Oil and Gas Company, engaged in adding value to the nation’s hydrocarbon resources for the benefit of all Nigerians and other stakeholders.",
+		"url": "https://nnpcgroup.com/Pages/Home.aspx"
+	},
+	{
+		
+		"logo": "agip-logo.webp",
+		"description": "Agip is En\"s NNPC is an integrated Oil and Gas Company, engaged in adding value to the nation’s hydrocarbon resources for the benefit of all Nigerians and other stakeholders.",
+		"url": "https://www.eni.com/en-NG/home.html"
+	},
+	{
+		
+		"logo": "belemaoil2.svg",
+		"description": "Belemaoil Producing Ltd. (BPL) is a world class indigenous independent exploration and production (E&P) company operating in the Niger Delta",
+		"url": "https://belemaoil.com"
+	},
+	{
+		"name": "ND Western",
+		"logo": "ndwestern-logo.webp",
+		"description": "ND Western is a Nigerian oil and gas exploration and production company made up of a consortium of four companies: NDPR, PETROLIN, FIRST Exploration & Petroleum Development OML 34 Limited and Walter-Smith Exploration and Production Limited",
+		"url": "http://www.ndwestern.com"
+	},
+	{
+		
+		"logo": "npdc-logo.webp",
+		"description": "NPDC activities cover the spectrum of the upstream Oil and Gas business",
+		"url": "https://npdc.nnpcgroup.com"
+	},
+	{
+	
+		"logo": "seplat-logo.webp",
+		"description": "Seplat Petroleum Development Company (SEPLAT) is a Nigerian independent oil and gas company listed on both the London and Nigerian Stock Exchanges with a strategic focus in the Niger Delta of Nigeria.",
+		"url": "https://www.seplatenergy.com"
+	},
+	{
+
+		"logo": "conoil_logo.webp",
+		"description": "Conoil is an independent Exploration and Production company in Nigeria.The Company was incorporated in 1984 under the name Consolidated Oil Nigeria Limited and subsequently changed to Conoil Producing Limited.",
+		"url": "https://www.conoilproducing.com"
+	},
+	{
+		
+		"logo": "adax-logo.webp",
+		"description": "Addax Petroleum is owned by Sinopec International Petroleum Exploration and Production Corporation (SIPC), which is managed and operated by the Sinopec Group. SIPC is specialised in overseas oil and gas investment and operations. It manages Sinopec's international exploration and production portfolio, including Addax Petroleum.",
+		"url": "https://www.addaxpetroleum.com"
+	},
+	{
+		
+		"logo": "rocky_solve-logo.webp",
+		"description": "Rocksolve is a specialist geology training consultancy in the area of sedimentology, sequence and seismic stratigraphy, petroleum exploration and production.",
+		"url": "https://rocksolve.com"
+	}
+    
+]
